@@ -11,7 +11,7 @@ Para chegar a esse retrato, fizemos a leitura dos dados de controle do Sistema d
 
 A lei brasileira determina que os fornecedores são responsáveis por testar a água e por apresentar os resultados à autoridade de saúde local, o que na prática se dá por meio do registro desses dados no Sisagua. Como esse banco traz informações classificadas em termos técnicos, a reportagem consultou o Ministério da Saúde e especialistas para deixar os dados mais acessíveis ao público não especializado.
 
-A ferramenta foi construída a partir de dados de 2018 a 2020 obtidos em novembro de 2021. Ela não abarca atualizações e retificações feitas desde então. Baixe aqui a base atualizada. As informações do banco utilizado (os dados de controle do Sisagua) são enviadas pelas instituições responsáveis pelo abastecimento de cada região - que podem ser empresas, autarquias ou governos locais.
+A ferramenta foi construída a partir de dados de 2018 a 2020 obtidos em novembro de 2021. Ela não abarca atualizações e retificações feitas desde então. [Baixe aqui](https://dados.gov.br/dataset/controle-semestral) a base atualizada. As informações do banco utilizado (os dados de controle do Sisagua) são enviadas pelas instituições responsáveis pelo abastecimento de cada região - que podem ser empresas, autarquias ou governos locais.
 
 É importante entender que cada município tem diferentes estações onde a água é tratada. Assim, um resultado acima do limite não significa necessariamente que a água de todo o município tem problemas, mas sim os locais abastecidos por aquela estação. Em termos de alerta para a saúde da população, porém, um local com problema pode afetar pessoas de diferentes partes do mesmo município, já que elas circulam e estão sujeitas a consumir água em diferentes locais.
 
@@ -23,7 +23,7 @@ Todas as substâncias destacadas pelo Mapa oferecem algum risco à saúde humana
 
 Este especial da Repórter Brasil é resultado de um esforço interdisciplinar de pesquisadores, jornalistas de dados, programadores e designers que contou ainda com a valiosa colaboração de especialistas com experiência no banco de dados do Sisagua e na vigilância da qualidade da água (leia mais em “equipe”).
 
-O mapa é uma versão atualizada e revisada de um primeiro mapa publicado em abril de 2019, quando a Repórter Brasil trabalhou em colaboração com a ONG suíça Public Eye e com a Agência Pública. É o resultado de um processo de amadurecimento da versão de 2019, que foi a primeira experiência no Brasil de tradução dos dados do Sisagua para o público não especializado. Essa primeira experiência revelou o grande interesse público sobre a qualidade da água, assim como a demanda por mais transparência ativa na divulgação dos resultados destes testes.
+O mapa é uma versão atualizada e revisada de um primeiro mapa [publicado em abril de 2019](https://portrasdoalimento.info/agrotoxico-na-agua/#), quando a Repórter Brasil trabalhou em colaboração com a ONG suíça Public Eye e com a Agência Pública. É o resultado de um processo de amadurecimento da versão de 2019, que foi a primeira experiência no Brasil de tradução dos dados do Sisagua para o público não especializado. Essa primeira experiência revelou o grande interesse público sobre a qualidade da água, assim como a demanda por mais transparência ativa na divulgação dos resultados destes testes.
 
 
 
