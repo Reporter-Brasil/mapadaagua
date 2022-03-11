@@ -25,5 +25,5 @@ Este especial da Repórter Brasil é resultado de um esforço interdisciplinar d
 
 O mapa é uma versão atualizada e revisada de um primeiro mapa [publicado em abril de 2019](https://portrasdoalimento.info/agrotoxico-na-agua/#), quando a Repórter Brasil trabalhou em colaboração com a ONG suíça Public Eye e com a Agência Pública. É o resultado de um processo de amadurecimento da versão de 2019, que foi a primeira experiência no Brasil de tradução dos dados do Sisagua para o público não especializado. Essa primeira experiência revelou o grande interesse público sobre a qualidade da água, assim como a demanda por mais transparência ativa na divulgação dos resultados destes testes.
 
-
+### Como os dados foram trabalhados
 
