@@ -1,4 +1,29 @@
 # Mapa da Água
 Scripts e metodologia do projeto [Mapa da Água](https://mapadaagua.reporterbrasil.org.br/)
 
+O Mapa da Água revela resultados de testes feitos na água tratada que detectaram substâncias químicas e radioativas que podem oferecer risco à saúde. Destacamos os casos em que o volume dessas substâncias estava acima da concentração máxima permitida, que é quando elas passam a oferecer risco, segundo parâmetros do Ministério da Saúde. Cada país define o seu limite de segurança para a concentração máxima permitida de cada substância na água.
+
+É esse o controle que define a potabilidade da água. As amostras que contém substâncias fora deste padrão são consideradas impróprias para o consumo, da mesma forma como um alimento pode estar fora da validade ou fora dos padrões sanitários.
+
+O Mapa destaca quais municípios tiveram ao menos um teste com substâncias acima do limite permitido no Brasil entre 2018 e 2020. Criamos um “alerta máximo” para os locais onde a mesma substância esteve acima da concentração máxima permitida ao menos uma vez em cada um dos 3 anos . A contaminação contínua é quando os riscos são maiores devido à presença de substâncias químicas e radioativas que podem gerar doenças crônicas, como câncer e problemas endócrinos.
+
+Para chegar a esse retrato, fizemos a leitura dos dados de controle do Sistema de Informação de Vigilância da Qualidade da Água para Consumo Humano, o Sisagua, do Ministério da Saúde. Esse banco de dados reúne os testes feitos pelas instituições responsáveis pelo abastecimento.
+
+A lei brasileira determina que os fornecedores são responsáveis por testar a água e por apresentar os resultados à autoridade de saúde local, o que na prática se dá por meio do registro desses dados no Sisagua. Como esse banco traz informações classificadas em termos técnicos, a reportagem consultou o Ministério da Saúde e especialistas para deixar os dados mais acessíveis ao público não especializado.
+
+A ferramenta foi construída a partir de dados de 2018 a 2020 obtidos em novembro de 2021. Ela não abarca atualizações e retificações feitas desde então. Baixe aqui a base atualizada. As informações do banco utilizado (os dados de controle do Sisagua) são enviadas pelas instituições responsáveis pelo abastecimento de cada região - que podem ser empresas, autarquias ou governos locais.
+
+É importante entender que cada município tem diferentes estações onde a água é tratada. Assim, um resultado acima do limite não significa necessariamente que a água de todo o município tem problemas, mas sim os locais abastecidos por aquela estação. Em termos de alerta para a saúde da população, porém, um local com problema pode afetar pessoas de diferentes partes do mesmo município, já que elas circulam e estão sujeitas a consumir água em diferentes locais.
+
+O mapa traz todos os resultados computados no Sisagua para agrotóxicos, substâncias orgânicas, inorgânicas, parâmetros radioativos e, o grupo que se revelou mais problemático: os subprodutos da desinfecção, que são substâncias indesejáveis geradas a partir do processo de tratamento da água.
+
+São 65 substâncias no total (leia mais sobre elas abaixo, em “Grupos de substâncias”).
+
+Todas as substâncias destacadas pelo Mapa oferecem algum risco à saúde humana se estiverem acima da concentração máxima permitida
+
+Este especial da Repórter Brasil é resultado de um esforço interdisciplinar de pesquisadores, jornalistas de dados, programadores e designers que contou ainda com a valiosa colaboração de especialistas com experiência no banco de dados do Sisagua e na vigilância da qualidade da água (leia mais em “equipe”).
+
+O mapa é uma versão atualizada e revisada de um primeiro mapa publicado em abril de 2019, quando a Repórter Brasil trabalhou em colaboração com a ONG suíça Public Eye e com a Agência Pública. É o resultado de um processo de amadurecimento da versão de 2019, que foi a primeira experiência no Brasil de tradução dos dados do Sisagua para o público não especializado. Essa primeira experiência revelou o grande interesse público sobre a qualidade da água, assim como a demanda por mais transparência ativa na divulgação dos resultados destes testes.
+
+
 
