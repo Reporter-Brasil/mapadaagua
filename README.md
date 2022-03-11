@@ -17,7 +17,7 @@ A ferramenta foi construída a partir de dados de 2018 a 2020 obtidos em novembr
 
 O mapa traz todos os resultados computados no Sisagua para agrotóxicos, substâncias orgânicas, inorgânicas, parâmetros radioativos e, o grupo que se revelou mais problemático: os subprodutos da desinfecção, que são substâncias indesejáveis geradas a partir do processo de tratamento da água.
 
-São 65 substâncias no total (leia mais sobre elas abaixo, em “Grupos de substâncias”).
+São 65 substâncias no total.
 
 Todas as substâncias destacadas pelo Mapa oferecem algum risco à saúde humana se estiverem acima da concentração máxima permitida
 
