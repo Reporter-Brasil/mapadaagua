@@ -41,12 +41,12 @@ Por fim, os scripts em Python criados estão na pasta **scripts**, com essa divi
 - 02_sisagua_criabancodedados.ipynb – une os três anos de testes na água dos três arquivos e faz a descrição dos testes em categorias de gravidade (tipo_cor). É esse arquivo final que abastece o Mapa da Água
 
 ### Equipe
-COORDENAÇÃO: Ana Aranha e Piero Locatelli
-REPORTAGEM: Ana Aranha, Hélen Freitas e André Cabette
-EDIÇÃO: Ana Aranha, Ana Magalhães, Mariana Della Barba e Gisele Lobato
-PROCESSAMENTO DE DADOS: Reinaldo Chaves
-ANÁLISE DE DADOS: Marina Gama Cubas e Reinaldo Chaves
-CONSULTORIA: Tiago Magalhães (interpretação dos dados do Sisagua) e Fábio Kummrow (descrição das substâncias)
-CRIAÇÃO E PROJETO GRÁFICO: Fernanda Segabinassi e Alexandre Macedo Costa
-COMUNICAÇÃO ESTRATÉGICA: Gota no Oceano
+COORDENAÇÃO: Ana Aranha e Piero Locatelli<br>
+REPORTAGEM: Ana Aranha, Hélen Freitas e André Cabette<br>
+EDIÇÃO: Ana Aranha, Ana Magalhães, Mariana Della Barba e Gisele Lobato<br>
+PROCESSAMENTO DE DADOS: Reinaldo Chaves<br>
+ANÁLISE DE DADOS: Marina Gama Cubas e Reinaldo Chaves<br>
+CONSULTORIA: Tiago Magalhães (interpretação dos dados do Sisagua) e Fábio Kummrow (descrição das substâncias)<br>
+CRIAÇÃO E PROJETO GRÁFICO: Fernanda Segabinassi e Alexandre Macedo Costa<br>
+COMUNICAÇÃO ESTRATÉGICA: Gota no Oceano<br>
 PROGRAMAÇÃO: Paulo Campos e André Mota (Studio Cubo Web)
