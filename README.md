@@ -50,3 +50,5 @@ CONSULTORIA: Tiago Magalhães (interpretação dos dados do Sisagua) e Fábio Ku
 CRIAÇÃO E PROJETO GRÁFICO: Fernanda Segabinassi e Alexandre Macedo Costa<br>
 COMUNICAÇÃO ESTRATÉGICA: Gota no Oceano<br>
 PROGRAMAÇÃO: Paulo Campos e André Mota (Studio Cubo Web)
+
+Atualizado: 13/03/2022
